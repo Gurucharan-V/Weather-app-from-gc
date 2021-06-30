@@ -4,7 +4,6 @@ A Simple Weather application for the android, web application, iOS, and Windows.
 I build APK by using EXPO Software Development Kit for Android and dmg file for an iOS build I have used Xcode and Cocoapods.
 
 _______________________________
-Currently learning React native
-Reach me vgcharan9666@gmail.com
+Currently learning @Reactnative. Reach me vgcharan9666@gmail.com
 _______________________________
 # I shared userinterface preview of application of both android and ios
